@@ -1,0 +1,60 @@
+{
+    "Desayunos": [
+        { "name": "Pan con Palta", "price": 10.00 },
+        { "name": "Tamales", "price": 8.00 },
+        { "name": "Café con Leche", "price": 5.00 },
+        { "name": "Jugo de Naranja", "price": 7.00 },
+        { "name": "Huevos Revueltos", "price": 12.00 },
+        { "name": "Panqueques", "price": 15.00 },
+        { "name": "Tostadas", "price": 6.00 },
+        { "name": "Yogur con Granola", "price": 9.00 }
+    ],
+    "Almuerzos": [
+        { "name": "Ceviche", "price": 25.00 },
+        { "name": "Lomo Saltado", "price": 30.00 },
+        { "name": "Aji de Gallina", "price": 20.00 },
+        { "name": "Pollo a la Brasa", "price": 18.00 },
+        { "name": "Tacu Tacu", "price": 22.00 },
+        { "name": "Seco de Res", "price": 28.00 },
+        { "name": "Pachamanca", "price": 32.00 },
+        { "name": "Arroz con Pollo", "price": 15.00 },
+        { "name": "Chicharrón de Pescado", "price": 24.00 },
+        { "name": "Chupe de Camarones", "price": 27.00 }
+    ],
+    "Cenas": [
+        { "name": "Pizza Margherita", "price": 20.00 },
+        { "name": "Hamburguesa Clásica", "price": 18.00 },
+        { "name": "Ensalada César", "price": 15.00 },
+        { "name": "Sándwich de Pollo", "price": 12.00 },
+        { "name": "Tacos al Pastor", "price": 22.00 },
+        { "name": "Burrito de Carne", "price": 25.00 },
+        { "name": "Sopa de Pollo", "price": 10.00 },
+        { "name": "Empanadas", "price": 8.00 },
+        { "name": "Quiche de Espinacas", "price": 18.00 },
+        { "name": "Spaghetti Bolognese", "price": 20.00 }
+    ],
+    "Bebidas": [
+        { "name": "Chicha Morada", "price": 8.00 },
+        { "name": "Inca Kola", "price": 6.00 },
+        { "name": "Agua Mineral", "price": 4.00 },
+        { "name": "Limonada", "price": 7.00 },
+        { "name": "Coca Cola", "price": 5.00 },
+        { "name": "Café Americano", "price": 6.00 },
+        { "name": "Té Helado", "price": 6.00 },
+        { "name": "Batido de Frutas", "price": 10.00 },
+        { "name": "Jugo de Mango", "price": 9.00 },
+        { "name": "Refresco de Maracuyá", "price": 8.00 }
+    ],
+    "Postres": [
+        { "name": "Tarta de Manzana", "price": 12.00 },
+        { "name": "Helado de Vainilla", "price": 8.00 },
+        { "name": "Brownie con Helado", "price": 15.00 },
+        { "name": "Cheesecake", "price": 18.00 },
+        { "name": "Pie de Limón", "price": 10.00 },
+        { "name": "Mousse de Chocolate", "price": 12.00 },
+        { "name": "Picarones", "price": 14.00 },
+        { "name": "Suspiro a la Limeña", "price": 16.00 },
+        { "name": "Tiramisú", "price": 20.00 },
+        { "name": "Flan", "price": 10.00 }
+    ]
+}
