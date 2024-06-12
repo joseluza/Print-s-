@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sistema de Gestión de Menú</title>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Sistema de Gestión de Menú</h1>
+            <select id="mesa-selector" onchange="changeTable(this.value)">
+                <option value="Mesa 1">Mesa 1</option>
+                <option value="Mesa 2">Mesa 2</option>
+                <option value="Mesa 3">Mesa 3</option>
+            </select>
+        </header>
+        <div class="main-content">
+            <div class="menu">
+                <h2>Menú</h2>
+                <div id="menu-container"></div>
+            </div>
+            <div class="order">
+                <h2>Pedidos</h2>
+                <div id="order-list"></div>
+                <div class="order-actions">
+                    <button onclick="clearOrder()">Borrar Todo</button>
+                    <button onclick="printReceipt()">Imprimir Boleta</button>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="js/menu.js"></script>
+    <script src="js/order.js"></script>
+    <script src="js/print.js"></script>
+</body>
+</html>
